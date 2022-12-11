@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "461472112898",
+    "project_id": "nivelacion-ciclo-4-reto-3-4",
+    "storage_bucket": "nivelacion-ciclo-4-reto-3-4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461472112898:android:5a2dde9003c402abafa21b",
+        "android_client_info": {
+          "package_name": "co.edu.unab.misionTIC.nivelacion_ciclo_4_reto_3_4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461472112898-f38lvvotur0mcd13g9usrv4tnb6g0ddk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPx1YCZcYjEgkk0jAg4Jgbt-6kH1EJzFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461472112898-f38lvvotur0mcd13g9usrv4tnb6g0ddk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
